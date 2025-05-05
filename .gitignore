@@ -5,3 +5,7 @@ str-hash-test
 hash-check
 boggle-driver
 hw6_tests/
+.vscode/
+hw6_tests.tar.gz
+notes.txt
+noteshash.txt
